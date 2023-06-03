@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>P2pro Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.255.174.111:8081/repository/flipkart-snapshot/</url>
+	      <url>http://3.26.201.255:8081/repository/amazon_snapshot/</url>
 	    </snapshotRepository>
 
 	</distributionManagement>
