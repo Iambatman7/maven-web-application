@@ -98,7 +98,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>P2pro Technologies Releases Nexus Repository</name>
-	      <url>http://54.206.56.226:8081/repository/amazon_webapps/</url>
+	      <url>http://3.26.56.178:8081/repository/amazon_webapps/</url>
 	    </repository>
 
 	    <snapshotRepository>
